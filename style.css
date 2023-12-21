@@ -1,0 +1,31 @@
+.intro {
+    font-weight: 400;
+}
+
+.skills {
+    margin-bottom: 100px;
+}
+
+.btn {
+    color: white;
+    border-color: white;
+}
+
+.btn:hover {
+    color: black;
+    border-color: white;
+    background-color: white;
+}
+
+.imglinks {
+    transition: 0.2s;
+}
+
+.imglinks:hover {
+    height: 55px;
+    transition: 0.1s;
+}
+
+.ml-4 {
+    margin-left: 15px;
+}
